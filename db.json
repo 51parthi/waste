@@ -1,0 +1,41 @@
+{
+  "Productlist": [
+    {
+      "productName": "Tara Horton",
+      "Category": "Electronic",
+      "date": "2000-10-11T18:30:00.000Z",
+      "freshness": "Brand new",
+      "price": 529,
+      "Comment": "Deserunt eiusmod ali",
+      "id": 3
+    },
+    {
+      "productName": "Shannon Wells",
+      "Category": "Fruits",
+      "date": "2003-12-04T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 112,
+      "Comment": "Pariatur Ipsam debi",
+      "id": 4
+    },
+    {
+      "productName": "Hashim Peterson",
+      "Category": "",
+      "date": "1994-07-24T18:30:00.000Z",
+      "freshness": "ReFurbished",
+      "price": 388,
+      "Comment": "Quia dolorum ex vita",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
